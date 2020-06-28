@@ -42,7 +42,9 @@
 
 [springBoot中starter的实现，so easy！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484150&amp;idx=1&amp;sn=128df924f4257557aef17884b84dff9e&amp;chksm=e8ac7fc6dfdbf6d0418435401e77c91dc6e3dce2743142932173166ff37848047791a3a866c8&token=676814622&lang=zh_CN#rd)
 
+ **SpringCloud**
 
+ [SpringCloud入门教程](https://juejin.im/post/5de2553e5188256e885f4fa3)
 
 ### 面试指南
 
