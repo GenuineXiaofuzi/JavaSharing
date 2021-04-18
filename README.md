@@ -1,8 +1,7 @@
 # JavaSharing
-
+介绍
+「Java学习笔记+Java面试指南」 计算机网路及操作系统，数据结构与算法基础，JVM，多线程与并发编程，Java的技术架构及开源项目的分享 。如果笔记对您有帮助的话，欢迎star支持
 ### **Java 技术文章**
-
-
 
 **Java 基础**
 
@@ -46,7 +45,12 @@
 
  [SpringCloud入门教程](https://juejin.im/post/5de2553e5188256e885f4fa3)
 
-### 面试指南
+### 面试精选
+
+[Java基础面试常问知识点](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247484784&idx=1&sn=fe6c6b91780f1ae12c8fd53cf453a982&chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=2132270684&lang=zh_CN#rd)
+
+[Java容器集合面试精选](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTEwOF9XWVAvUnpYNEJmR01BbHA4VVdZMDdvcHhXVzlXYnJ5SnNFajEyQmppVy1jckYwcDd3MzRxQ2l2WEJYa3BpeUU1ZWx3VUtEUGYtd2tVTDNNSXZEVGZKVWJfM1FPUFVTenlvR3dkZ3ZOcjduNkVnemM5VDg2cGtZRnozRGE0VW5Ib0hoa3pBREhnSDJ2eWRLZ1RmYi00aTBUaGtDWVc4UzAyTHN5bnRRfn4%3D&chksm=68ac7b2a5fdbf23c5fd976400bfc90e73e59affbd848ac20093d705aa131430a9b695923398f#rd)
+
 
 
 
