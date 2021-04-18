@@ -1,13 +1,13 @@
 # JavaSharing
 介绍
 「Java学习笔记+Java面试指南」 计算机网路及操作系统，数据结构与算法基础，JVM，多线程与并发编程，Java的技术架构及开源项目的分享 。如果笔记对您有帮助的话，欢迎star支持
-### **Java 技术文章**
 
-**Java 基础**
+
+## JAVA基础
 
 [Java注解，其实就这么简单？](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247483995&amp;idx=1&amp;sn=6aad00ae4762941f233f59e78a08b304&amp;chksm=e8ac7f6bdfdbf67d8e5b1ee25a4532304df547a40fb7955186454731cb9eef147784af8cba65&token=676814622&lang=zh_CN#rd)
 
-**设计模式**
+## 设计模式
 
 [一文深入理解单利模式](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247483690&amp;idx=1&amp;sn=c78080094eaeecd70a694dd9c5418897&amp;chksm=e8ac7c1adfdbf50c6e70437ac31f0d98d7e58e7bfbce6f4ab9c17066856e4ac3ddd9271e88d4&token=676814622&lang=zh_CN#rd)
 
@@ -21,7 +21,7 @@
 
 [适配器模式的实现，就这么简单](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484017&amp;idx=1&amp;sn=583dc4fc1ff1c9952ba77e65090f6e35&amp;chksm=e8ac7f41dfdbf657267ddca13f8108efaa739c623a1802fb3297cf3fdf57609b029bdbcba2d1&token=676814622&lang=zh_CN#rd)
 
-**Spring**
+## Spring
 
 [Spring IOC 知识点汇总](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484199&amp;idx=1&amp;sn=1fb45ae5fbcfd6a3ae8e7821b1ff070b&amp;chksm=e8ac7e17dfdbf7014f9d1299e5cf9a19f245e7d29f98d9e1488a262d1a7b1d27e766ec9bc373&token=676814622&lang=zh_CN#rd)
 
@@ -31,7 +31,7 @@
 
 [Spring事务管理实现方式](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484245&amp;idx=1&amp;sn=de06940d1d40c69ad419b7697feef586&amp;chksm=e8ac7e65dfdbf773cfa234ff614be7cc79fe7adf8441dab227f5c4676dcb11bb78f8b147fac3&token=676814622&lang=zh_CN#rd)
 
-**SpringBoot**
+## SpringBoot
 
 [SpringBoot读取配置文件，就这么简单。](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484056&amp;idx=1&amp;sn=7c622a3f721627ee7e150a2b192ed1b4&amp;chksm=e8ac7fa8dfdbf6beb23a5f46108d9366b674bc83487d252cbe027db51c69b1e345defc137f20&token=676814622&lang=zh_CN#rd)
 
@@ -41,11 +41,11 @@
 
 [springBoot中starter的实现，so easy！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484150&amp;idx=1&amp;sn=128df924f4257557aef17884b84dff9e&amp;chksm=e8ac7fc6dfdbf6d0418435401e77c91dc6e3dce2743142932173166ff37848047791a3a866c8&token=676814622&lang=zh_CN#rd)
 
- **SpringCloud**
+## SpringCloud
 
- [SpringCloud入门教程](https://juejin.im/post/5de2553e5188256e885f4fa3)
+[SpringCloud入门教程](https://juejin.im/post/5de2553e5188256e885f4fa3)
 
-### 面试精选
+## 面试精选
 
 [Java基础面试常问知识点](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247484784&idx=1&sn=fe6c6b91780f1ae12c8fd53cf453a982&chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=2132270684&lang=zh_CN#rd)
 
@@ -54,7 +54,7 @@
 
 
 
-### 资源分享
+## 资源分享
 
 
 
@@ -64,3 +64,8 @@
 
 [Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
 
+
+
+### 技巧
+
+[一看就会的 GitHub 骚操作，让你看上去像一位开源大佬](https://juejin.cn/post/6949202430886150180)
