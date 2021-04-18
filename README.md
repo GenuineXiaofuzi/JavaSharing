@@ -51,6 +51,9 @@
 
 [Java容器集合面试精选](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTEwOF9XWVAvUnpYNEJmR01BbHA4VVdZMDdvcHhXVzlXYnJ5SnNFajEyQmppVy1jckYwcDd3MzRxQ2l2WEJYa3BpeUU1ZWx3VUtEUGYtd2tVTDNNSXZEVGZKVWJfM1FPUFVTenlvR3dkZ3ZOcjduNkVnemM5VDg2cGtZRnozRGE0VW5Ib0hoa3pBREhnSDJ2eWRLZ1RmYi00aTBUaGtDWVc4UzAyTHN5bnRRfn4%3D&chksm=68ac7b2a5fdbf23c5fd976400bfc90e73e59affbd848ac20093d705aa131430a9b695923398f#rd)
 
+## git
+
+[超级实用，提高 Github 下载速度的方法「100%有效」可达到 2MB/s](https://mp.weixin.qq.com/s/EYYZRPIld81K585UC5RzKg)
 
 
 
