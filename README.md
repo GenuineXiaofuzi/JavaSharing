@@ -5,6 +5,8 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-brightgreen)](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484784&amp;idx=1&amp;sn=fe6c6b91780f1ae12c8fd53cf453a982&amp;chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=1827893064&lang=zh_CN#rd) &nbsp;[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-green)](https://www.zhihu.com/people/xiaofuzi123)&nbsp;[![思否](https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-orange)](https://segmentfault.com/u/xiaofuzi123)&nbsp;[![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blue)](https://www.jianshu.com/u/a3fa8f8e3f8b)&nbsp;[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blueviolet)](https://juejin.cn/user/729731453946135)&nbsp;
 
+[测试](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/README.md)
+
 ## JAVA基础
 
 [Java注解，其实就这么简单？](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247483995&amp;idx=1&amp;sn=6aad00ae4762941f233f59e78a08b304&amp;chksm=e8ac7f6bdfdbf67d8e5b1ee25a4532304df547a40fb7955186454731cb9eef147784af8cba65&token=676814622&lang=zh_CN#rd)
