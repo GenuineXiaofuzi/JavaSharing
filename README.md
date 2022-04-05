@@ -5,12 +5,21 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-brightgreen)](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484784&amp;idx=1&amp;sn=fe6c6b91780f1ae12c8fd53cf453a982&amp;chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=1827893064&lang=zh_CN#rd) &nbsp;[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-green)](https://www.zhihu.com/people/xiaofuzi123)&nbsp;[![思否](https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-orange)](https://segmentfault.com/u/xiaofuzi123)&nbsp;[![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blue)](https://www.jianshu.com/u/a3fa8f8e3f8b)&nbsp;[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blueviolet)](https://juejin.cn/user/729731453946135)&nbsp;
 
+### Java视频教程整理（持续更新...）
 
-## JAVA基础
+| 计算机基础与网络编程                                         | 数据结构与算法基础 | Java实战教程 | 多线程与并发 | JVM  |
+| ------------------------------------------------------------ | ------------------ | ------------ | ------------ | ---- |
+| [编程必备基础 计算机组成原理+操作系统+计算机网络](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/README.md) |                    |              |              |      |
+| 编程必备基础 大话HTTP协议                                    |                    |              |              |      |
+| HTTP协议原理+实战 Web开发工程师必学                          |                    |              |              |      |
+
+
+
+### JAVA基础
 
 [Java注解，其实就这么简单？](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247483995&amp;idx=1&amp;sn=6aad00ae4762941f233f59e78a08b304&amp;chksm=e8ac7f6bdfdbf67d8e5b1ee25a4532304df547a40fb7955186454731cb9eef147784af8cba65&token=676814622&lang=zh_CN#rd)
 
-## 设计模式
+### 设计模式
 
 [一文深入理解单利模式](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247483690&amp;idx=1&amp;sn=c78080094eaeecd70a694dd9c5418897&amp;chksm=e8ac7c1adfdbf50c6e70437ac31f0d98d7e58e7bfbce6f4ab9c17066856e4ac3ddd9271e88d4&token=676814622&lang=zh_CN#rd)
 
@@ -24,7 +33,7 @@
 
 [适配器模式的实现，就这么简单](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484017&amp;idx=1&amp;sn=583dc4fc1ff1c9952ba77e65090f6e35&amp;chksm=e8ac7f41dfdbf657267ddca13f8108efaa739c623a1802fb3297cf3fdf57609b029bdbcba2d1&token=676814622&lang=zh_CN#rd)
 
-## Spring
+### Spring
 
 [Spring IOC 知识点汇总](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484199&amp;idx=1&amp;sn=1fb45ae5fbcfd6a3ae8e7821b1ff070b&amp;chksm=e8ac7e17dfdbf7014f9d1299e5cf9a19f245e7d29f98d9e1488a262d1a7b1d27e766ec9bc373&token=676814622&lang=zh_CN#rd)
 
@@ -34,7 +43,7 @@
 
 [Spring事务管理实现方式](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484245&amp;idx=1&amp;sn=de06940d1d40c69ad419b7697feef586&amp;chksm=e8ac7e65dfdbf773cfa234ff614be7cc79fe7adf8441dab227f5c4676dcb11bb78f8b147fac3&token=676814622&lang=zh_CN#rd)
 
-## SpringBoot
+### SpringBoot
 
 [SpringBoot读取配置文件，就这么简单。](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484056&amp;idx=1&amp;sn=7c622a3f721627ee7e150a2b192ed1b4&amp;chksm=e8ac7fa8dfdbf6beb23a5f46108d9366b674bc83487d252cbe027db51c69b1e345defc137f20&token=676814622&lang=zh_CN#rd)
 
@@ -44,23 +53,23 @@
 
 [springBoot中starter的实现，so easy！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484150&amp;idx=1&amp;sn=128df924f4257557aef17884b84dff9e&amp;chksm=e8ac7fc6dfdbf6d0418435401e77c91dc6e3dce2743142932173166ff37848047791a3a866c8&token=676814622&lang=zh_CN#rd)
 
-## SpringCloud
+### SpringCloud
 
 [SpringCloud入门教程](https://juejin.im/post/5de2553e5188256e885f4fa3)
 
-## 面试精选
+### 面试精选
 
 [Java基础面试常问知识点](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247484784&idx=1&sn=fe6c6b91780f1ae12c8fd53cf453a982&chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=2132270684&lang=zh_CN#rd)
 
 [Java容器集合面试精选](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTEwOF9XWVAvUnpYNEJmR01BbHA4VVdZMDdvcHhXVzlXYnJ5SnNFajEyQmppVy1jckYwcDd3MzRxQ2l2WEJYa3BpeUU1ZWx3VUtEUGYtd2tVTDNNSXZEVGZKVWJfM1FPUFVTenlvR3dkZ3ZOcjduNkVnemM5VDg2cGtZRnozRGE0VW5Ib0hoa3pBREhnSDJ2eWRLZ1RmYi00aTBUaGtDWVc4UzAyTHN5bnRRfn4%3D&chksm=68ac7b2a5fdbf23c5fd976400bfc90e73e59affbd848ac20093d705aa131430a9b695923398f#rd)
 
-## git
+### git
 
 [超级实用，提高 Github 下载速度的方法「100%有效」可达到 2MB/s](https://mp.weixin.qq.com/s/EYYZRPIld81K585UC5RzKg)
 
 
 
-## 资源分享
+### 资源分享
 
 
 
@@ -70,7 +79,7 @@
 
 [Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
 
-## 开源项目
+### 开源项目
 
 [GitHub计算机书籍资源库，值得收藏！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247485089&amp;idx=1&amp;sn=f3c1481c8816e8a736dc96970cf4a04b&amp;chksm=e8ac7b91dfdbf2879de913dbd9f3d6fadc3776b0f789c0a55456864d90d829a9fc2eb3d43a1b&token=1827893064&lang=zh_CN#rd)
 
