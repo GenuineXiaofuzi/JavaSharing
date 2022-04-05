@@ -1,7 +1,9 @@
-# JavaSharing
+<p align='center'font='18px'> JavaSharing</p>
+
 介绍
 「Java学习笔记+Java面试指南」 计算机网路及操作系统，数据结构与算法基础，JVM，多线程与并发编程，Java的技术架构及开源项目的分享 。如果笔记对您有帮助的话，欢迎star支持
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-brightgreen)](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484784&amp;idx=1&amp;sn=fe6c6b91780f1ae12c8fd53cf453a982&amp;chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=1827893064&lang=zh_CN#rd) &nbsp;[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-green)](https://www.zhihu.com/people/xiaofuzi123)&nbsp;[![思否](https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-orange)](https://segmentfault.com/u/xiaofuzi123)&nbsp;[![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blue)](https://www.jianshu.com/u/a3fa8f8e3f8b)&nbsp;[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blueviolet)](https://juejin.cn/user/729731453946135)&nbsp;
 
 ## JAVA基础
 
@@ -67,8 +69,11 @@
 
 [Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
 
+## 开源项目
 
+[GitHub计算机书籍资源库，值得收藏！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247485089&amp;idx=1&amp;sn=f3c1481c8816e8a736dc96970cf4a04b&amp;chksm=e8ac7b91dfdbf2879de913dbd9f3d6fadc3776b0f789c0a55456864d90d829a9fc2eb3d43a1b&token=1827893064&lang=zh_CN#rd)
 
 ###  技巧
 
 [一看就会的 GitHub 骚操作，让你看上去像一位开源大佬](https://juejin.cn/post/6949202430886150180)
+
