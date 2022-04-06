@@ -9,9 +9,13 @@
 
 | 计算机基础与网络编程                                         | 数据结构与算法基础 | Java实战教程 | 多线程与并发 | JVM  |
 | ------------------------------------------------------------ | ------------------ | ------------ | ------------ | ---- |
-| [编程必备基础 计算机组成原理+操作系统+计算机网络](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95%E5%9F%BA%E7%A1%80/README.md) |                    |              |              |      |
-| 编程必备基础 大话HTTP协议                                    |                    |              |              |      |
-| HTTP协议原理+实战 Web开发工程师必学                          |                    |              |              |      |
+| [编程必备基础 计算机组成原理+操作系统+计算机网络](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E4%B8%8E%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/%E7%BC%96%E7%A8%8B%E5%BF%85%E5%A4%87%E5%9F%BA%E7%A1%80%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E6%88%90%E5%8E%9F%E7%90%86%2B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F%2B%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C.md) |                    |              |              |      |
+| [大话HTTP协议](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E4%B8%8E%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/%E7%BC%96%E7%A8%8B%E5%BF%85%E5%A4%87%E5%9F%BA%E7%A1%80%20%E5%A4%A7%E8%AF%9DHTTP%E5%8D%8F%E8%AE%AE.md) |                    |              |              |      |
+| [协议原理+实战 Web开发工程师必学](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E4%B8%8E%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B/HTTP%E5%8D%8F%E8%AE%AE%E5%8E%9F%E7%90%86%2B%E5%AE%9E%E6%88%98%20Web%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88%E5%BF%85%E5%AD%A6.md) |                    |              |              |      |
+
+
+
+
 
 
 
