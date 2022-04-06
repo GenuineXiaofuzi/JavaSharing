@@ -1,7 +1,7 @@
 
 **视频内容**
+![](https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204062321876.png)
 
-![](https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204062253223.png)
 
 **下载地址**
 
