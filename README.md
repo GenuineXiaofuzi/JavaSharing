@@ -66,7 +66,7 @@
 
 [Java容器集合面试精选](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTEwOF9XWVAvUnpYNEJmR01BbHA4VVdZMDdvcHhXVzlXYnJ5SnNFajEyQmppVy1jckYwcDd3MzRxQ2l2WEJYa3BpeUU1ZWx3VUtEUGYtd2tVTDNNSXZEVGZKVWJfM1FPUFVTenlvR3dkZ3ZOcjduNkVnemM5VDg2cGtZRnozRGE0VW5Ib0hoa3pBREhnSDJ2eWRLZ1RmYi00aTBUaGtDWVc4UzAyTHN5bnRRfn4%3D&chksm=68ac7b2a5fdbf23c5fd976400bfc90e73e59affbd848ac20093d705aa131430a9b695923398f#rd)
 
-### git
+### gitHub
 
 [超级实用，提高 Github 下载速度的方法「100%有效」可达到 2MB/s](https://mp.weixin.qq.com/s/EYYZRPIld81K585UC5RzKg)
 
@@ -81,6 +81,11 @@
 [给你3分钟白漂：我写博客常用软件和在线工具](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484259&amp;idx=1&amp;sn=84317de5f4e12d1a46be48631ec9019e&amp;chksm=e8ac7e53dfdbf745c8a84b7207522c14f28f6a4adf43af83e94571bfd244b1d3f988a3998d29&token=676814622&lang=zh_CN#rd)
 
 [Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
+
+### IntelliJ IDEA
+
+[推荐10个工作中用到的 IntelliJ IDEA 插件](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247485167&amp;idx=1&amp;sn=129ef5caf7232f0a4a22843264f622af&amp;chksm=e8ac7bdfdfdbf2c913ec7460cc4253e145ca3e36c08512edad4bf0d681574e5cc288c918f198&token=390065041&lang=zh_CN#rd)
+
 
 ### 开源项目
 
