@@ -1,18 +1,7 @@
-#### HTTP协议原理+实战Web开发工程师必学
-
-
-
-![](https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204062321876.png)
-
-***
-
-
-
-#### 下载地址
-
-由于百度云经常失效，为了方便及时更新，我把链接放在了我的公众号上，如果大家觉得对自己可以扫码关注我的微信公众号【**阿福聊编程**】，然后回复 【**10002**】，就可以收获取资源了。
-
-![](https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204062307206.png)
-
-***
-
+<div class="output_wrapper" id="output_wrapper_id" style="font-size: 16px; color: rgb(62, 62, 62); line-height: 1.6; word-spacing: 0px; letter-spacing: 0px; font-family: 'Helvetica Neue', Helvetica, 'Hiragino Sans GB', 'Microsoft YaHei', Arial, sans-serif;"><h4 id="hhttpweb" style="line-height: inherit; padding: 0px; margin: 1.5em 0px; font-weight: bold; color: rgb(21, 153, 87); text-align: center; font-size: 1.2em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">HTTP协议原理+实战Web开发工程师必学</span></h4>
+<figure style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><img src="https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204062321876.png" alt="" title="" style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; display: block; margin: 0px auto; max-width: 100%;"><figcaption style="line-height: inherit; margin: 0px; padding: 0px; margin-top: 10px; text-align: center; color: rgb(153, 153, 153); font-size: 0.7em;"></figcaption></figure>
+<hr style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; height: 1px; margin: 1.5rem 0px; border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 1px dashed rgb(165, 165, 165);">
+<h4 id="h" style="line-height: inherit; padding: 0px; margin: 1.5em 0px; font-weight: bold; color: rgb(21, 153, 87); text-align: center; font-size: 1.2em;"><span style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;">下载地址</span></h4>
+<p style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; margin: 1.5em 0px;">由于百度云经常失效，为了方便及时更新，我把链接放在了我的公众号上，如果大家觉得对自己可以扫码关注我的微信公众号【<strong style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; font-weight: bold;">阿福聊编程</strong>】，然后回复 【<strong style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px; font-weight: bold;">10002</strong>】，就可以收获取资源了。</p>
+<figure style="font-size: inherit; color: inherit; line-height: inherit; margin: 0px; padding: 0px;"><img src="https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204062307206.png" alt="" title="" style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; display: block; margin: 0px auto; max-width: 100%;"><figcaption style="line-height: inherit; margin: 0px; padding: 0px; margin-top: 10px; text-align: center; color: rgb(153, 153, 153); font-size: 0.7em;"></figcaption></figure>
+<hr style="font-size: inherit; color: inherit; line-height: inherit; padding: 0px; height: 1px; margin: 1.5rem 0px; border-right: none; border-bottom: none; border-left: none; border-image: initial; border-top: 1px dashed rgb(165, 165, 165);"></div>
