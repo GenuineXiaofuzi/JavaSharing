@@ -87,6 +87,10 @@
 
 [推荐10个工作中用到的 IntelliJ IDEA 插件](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247485167&amp;idx=1&amp;sn=129ef5caf7232f0a4a22843264f622af&amp;chksm=e8ac7bdfdfdbf2c913ec7460cc4253e145ca3e36c08512edad4bf0d681574e5cc288c918f198&token=390065041&lang=zh_CN#rd)
 
+[IntelliJ IDEA 启动不了问题排查](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247485200&idx=1&sn=84cee04092efce1a76af66ee8b0ca020&chksm=e8ac7a20dfdbf336e5e37c654dafe1ea1a3066cab905d232165271b549d756218081b0a8fef8&token=1862842542&lang=zh_CN#rd)
+
+
+
 
 ### 开源项目
 
