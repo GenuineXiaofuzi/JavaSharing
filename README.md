@@ -67,10 +67,6 @@
 
 [Java容器集合面试精选](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTEwOF9XWVAvUnpYNEJmR01BbHA4VVdZMDdvcHhXVzlXYnJ5SnNFajEyQmppVy1jckYwcDd3MzRxQ2l2WEJYa3BpeUU1ZWx3VUtEUGYtd2tVTDNNSXZEVGZKVWJfM1FPUFVTenlvR3dkZ3ZOcjduNkVnemM5VDg2cGtZRnozRGE0VW5Ib0hoa3pBREhnSDJ2eWRLZ1RmYi00aTBUaGtDWVc4UzAyTHN5bnRRfn4%3D&chksm=68ac7b2a5fdbf23c5fd976400bfc90e73e59affbd848ac20093d705aa131430a9b695923398f#rd)
 
-### gitHub
-
-[超级实用，提高 Github 下载速度的方法「100%有效」可达到 2MB/s](https://mp.weixin.qq.com/s/EYYZRPIld81K585UC5RzKg)
-
 ### Maven
 
 [Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
@@ -96,6 +92,8 @@
 ### 开源项目
 
 [GitHub计算机书籍资源库，值得收藏！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247485089&amp;idx=1&amp;sn=f3c1481c8816e8a736dc96970cf4a04b&amp;chksm=e8ac7b91dfdbf2879de913dbd9f3d6fadc3776b0f789c0a55456864d90d829a9fc2eb3d43a1b&token=1827893064&lang=zh_CN#rd)
+
+[超级实用，提高 Github 下载速度的方法「100%有效」可达到 2MB/s](https://mp.weixin.qq.com/s/EYYZRPIld81K585UC5RzKg)
 
 ###  技巧
 
