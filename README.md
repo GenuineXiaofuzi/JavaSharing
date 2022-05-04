@@ -71,17 +71,18 @@
 
 [超级实用，提高 Github 下载速度的方法「100%有效」可达到 2MB/s](https://mp.weixin.qq.com/s/EYYZRPIld81K585UC5RzKg)
 
+### Maven
 
+[Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
 
-### 资源分享
-
-
+### 工具分享
 
 [写博客必备神器！打造稳定快速、高效免费图床，真香！](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484073&amp;idx=1&amp;sn=1ce760292e7c436a341536fc9222014d&amp;chksm=e8ac7f99dfdbf68f0957c7b291be67bc1d3277887d3c642b607fb1cdda56b1102081780528b6&token=676814622&lang=zh_CN#rd)
 
 [给你3分钟白漂：我写博客常用软件和在线工具](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484259&amp;idx=1&amp;sn=84317de5f4e12d1a46be48631ec9019e&amp;chksm=e8ac7e53dfdbf745c8a84b7207522c14f28f6a4adf43af83e94571bfd244b1d3f988a3998d29&token=676814622&lang=zh_CN#rd)
 
-[Maven Jar包下载失败及解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&tempkey=MTA2OF9jSDU2SWFyYkYxd08za0lWM2xLOEtFNTY0X1JxWF9qclJpeER2U0oyRVZUWGZoTFlkUml2Nk1MM1VPNWRqX2xMTllGODJleFpmdWE1WTRSMzAwMTdLeE5VcUZsaVVkanRXd0VFQ050NDRxOVZzSXlCQ3hsVzdCMVhGSFhnZi1tbWlsOU5mZGZEY2l6NE1zb2I0aFMzWWsxS0JPMDlnTlNQb0xtTFFBfn4%3D&chksm=68ac7eb05fdbf7a64ebb99bb14b815f6150263542e58b4e9e87aa11d7d0d5d3e6f97872723bb&__mpa_temp_link_flag=1&token=1711853219#rd)
+[在线图片处理工具（尺寸、背景、格式）](https://mp.weixin.qq.com/s/OFtqWYYhmFD6t8vV9X_oow)
+
 
 ### IntelliJ IDEA
 
