@@ -86,6 +86,13 @@
 
 [IntelliJ IDEA 启动不了问题排查](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247485200&idx=1&sn=84cee04092efce1a76af66ee8b0ca020&chksm=e8ac7a20dfdbf336e5e37c654dafe1ea1a3066cab905d232165271b549d756218081b0a8fef8&token=1862842542&lang=zh_CN#rd)
 
+[IntelliJ IDEA内存大小设置](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247485209&idx=1&sn=60055fa1161846243ce2cfc3ce5bb835&chksm=e8ac7a29dfdbf33f4b3f9eecbc55f54694ec96e5f8365dc58f7060d74cc625e0d1bc3eefeec8&scene=178&cur_album_id=2344651010851569665#rd)
+
+[IntelliJ IDEA 控制台中文乱码解决方案](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&mid=2247485240&idx=1&sn=9e33f9be3225506e3c5f7562aaa3f16a&chksm=e8ac7a08dfdbf31e0773fa65d1eeaccfe9413fff5286a6730df89e745fbb0098b946c18543cf&scene=178&cur_album_id=2344651010851569665#rd)
+
+
+
+
 
 ### 开源项目
 
