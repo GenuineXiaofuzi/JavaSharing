@@ -22,7 +22,7 @@
 
 #### [编程技术视频](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF%E8%A7%86%E9%A2%91/%E7%BC%96%E7%A8%8B%E6%8A%80%E6%9C%AF%E8%A7%86%E9%A2%91.md)
 
-#### 博客
+#### [博客](https://github.com/GenuineXiaofuzi/JavaSharing/blob/master/%E5%8D%9A%E5%AE%A2/%E5%8D%9A%E5%AE%A2.md)
 
 #### 个人文章
 
