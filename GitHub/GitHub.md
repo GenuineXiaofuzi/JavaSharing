@@ -12,5 +12,5 @@
 | **<(￣︶￣)> 简历类**                                          | **<(￣︶￣)> 内容说明**                                      |
 | [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample) | 程序员简历模板系列.PHP程序员简历模板、iOS程序员简历模板、Android程序员简历模板、Web前端程序员简历模板、Java程序员简历模板、C/C++程序员简历模板、NodeJS程序员简历模板、架构师简历模板以及通用程序员简历模板 |
 | **<(￣︶￣)> 源码类**                                          | **<(￣︶￣)> 内容说明**                                      |
-| [fuzhengwei/CodeGuide](互联网 Java 开发的学习历程技术汇总 |
+| [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) | 互联网 Java 开发的学习历程技术汇总   |
 
