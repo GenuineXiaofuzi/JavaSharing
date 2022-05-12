@@ -15,3 +15,4 @@
 | [fuzhengwei/CodeGuide](https://github.com/fuzhengwei/CodeGuide) | 互联网 Java 开发的学习历程技术汇总   |
 | **<(￣︶￣)> 微服务**                                          | **<(￣︶￣)> 内容说明**                                      |
 | [YunaiV/SpringBoot-Labs](https://github.com/YunaiV/SpringBoot-Labs) | Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库   |
+| [wuyouzhuguli/SpringAll](https://github.com/wuyouzhuguli/SpringAll) | Spring Boot、Spring Boot & Shiro、Spring Batch、Spring Cloud、Spring Cloud Alibaba、Spring Security & Spring Security OAuth2   |
