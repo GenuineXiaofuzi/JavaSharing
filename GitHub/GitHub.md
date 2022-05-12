@@ -10,6 +10,6 @@
 | **<(￣︶￣)> 综合类**                                      | **<(￣︶￣)> 内容说明**                                |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [sindresorhus/awesome](https://github.com/sindresorhus/awesome)  | 覆盖所有计算机相关资源 |
-| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)  | 【Java学习+面试指南】涵盖大部分 Java 程序员所需要掌握的核心知识 |
+| [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide)  |【Java学习+面试指南】涵盖大部分 Java 程序员所需要掌握的核心知识 |
 
 
